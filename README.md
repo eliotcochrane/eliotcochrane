@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @eliotcochrane
+- 👀 I’m interested in becoming a front-end web developer in Japan.
+- 🌱 I’m currently learning the basics of web development (HTML, CSS, JS)
+- 💞️ I’m looking to collaborate on bringing customized equipment fittings to the web
+- 📫 Feel free to message me here!
